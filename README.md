@@ -15,7 +15,7 @@ Hello and thank you for visiting my project repository! I'm Nisha, a data enthus
 - [**Setup Guide**](#setup-guide)
 - [**Connect**](#connect)
 
-##Introduction
+## Introduction
 
 This project is designed to showcase essential SQL skills through the analysis of a comprehensive dataset from FitPro Gym. By utilizing SQL, I have examined various aspects of gym operations, including membership details, demographic information, and visitation patterns. The aim is to derive actionable insights that can enhance decision-making and improve gym management practices. Throughout this project, I demonstrate core SQL techniques such as creating tables, writing complex queries, and performing detailed data analysis, all aimed at uncovering trends and patterns that are critical to the gym’s success.
 
