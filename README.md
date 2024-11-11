@@ -111,6 +111,6 @@ I'm always looking for feedback and opportunities to improve! If you have questi
 
 - **Email**: [nishabidla0817@gmail.com](mailto:nishabidlabidla0817@gmail.com)
 
-- **LinkedIn**: [LinkedIn Profile]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/nisha-kumari-bidla-850255146/))
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/nisha-kumari-bidla-850255146/])
 
 Thank you for exploring my FitPro Gym SQL Analysis Project!
