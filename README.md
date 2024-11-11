@@ -1,6 +1,5 @@
 # FitPro Gym SQL Analysis Project
 
-![FitPro Gym Banner](https://github.com/nishabidla/Fitpro_gym/blob/main/fitpro%20gym.jpg)
 <p align="center">
   <img src="https://github.com/nishabidla/Fitpro_gym/blob/main/fitpro%20gym.jpg" alt="FitPro Gym Banner">
 </p>
