@@ -65,6 +65,7 @@ The following queries were created to solve specific business questions. Each qu
 5. List members with a **Quarterly membership** aged between **20 and 30**.
 
 Additional aggregations and grouping:
+
 6. Count total visits made by each member.
 7. Count members by membership type (e.g., Monthly, Weekly, Quarterly).
 8. Calculate the average age of members, grouped by membership type.
@@ -72,6 +73,7 @@ Additional aggregations and grouping:
 10. Count members by status (e.g., Active or Cancelled).
 
 Advanced queries:
+
 11. Top 3 members with the highest visits.
 12. Active Monthly members grouped by membership type, sorted by recent join dates.
 13. Members with more than 2 visits, sorted by total visits, displaying the top 5.
